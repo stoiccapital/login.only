@@ -1,0 +1,13 @@
+{
+  "buildCommand": "node scripts/generate-env.js",
+  "outputDirectory": "login",
+  "installCommand": "echo 'No dependencies to install'",
+  "framework": null,
+  "functions": {},
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/index.html"
+    }
+  ]
+} 
