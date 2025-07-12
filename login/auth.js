@@ -67,7 +67,7 @@ class AuthManager {
 
     // Redirect to login page
     redirectToLogin() {
-        window.location.href = '/login.html'
+        window.location.href = '/login/login.html'
     }
 
     // Redirect to dashboard
